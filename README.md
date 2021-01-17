@@ -10,7 +10,7 @@ Suppose, we want to display the alphabet A. We will first select the column C1. 
 
 Mechanical Design...
 
- ![Image description](https://github.com/ShounakCy/POV-Based-Displays.git/blob/main/Picture6.png)
+ ![Image description](https://github.com/ShounakCy/POV-Based-Displays/blob/main/Picture6.png)
 
  ![Image description](https://github.com/ShounakCy/POV-Based-Displays/blob/main/Picture7.png)
 
