@@ -8,4 +8,8 @@ the LED array with led 1,2,3,4,5,6,7,8 connected at digital pins 2,3,4,5,6,7,8,9
 
 Suppose, we want to display the alphabet A. We will first select the column C1. Now, the first column is active, and we need to turn on the LEDs in the rows R2 through R8 of this column, which can be done by providing digital 1 to these pins using our microcontroller. Next, select the column C2 apply digital 1 to R1 and R5, and so on. Therefore, by rotating led array at a certain speed (> 800 rpm), and turning on the respective LEDs in each row of that column, the persistence of vision comes in to play, and we perceive the display image as still.
 
+ ![Image description](https://github.com/ShounakCy/Fire-Fighting-and-Stair-Climbing-Robot/blob/main/Picture5.png)
+
+ ![Image description](https://github.com/ShounakCy/Fire-Fighting-and-Stair-Climbing-Robot/blob/main/Picture6.png)
+
 
